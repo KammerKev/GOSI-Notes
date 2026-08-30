@@ -1,1 +1,1 @@
-# GOSI-Notes
+# OSINT-Labs
